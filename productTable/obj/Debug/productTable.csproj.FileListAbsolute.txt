@@ -1,0 +1,10 @@
+D:\c#-app\productTable\productTable\bin\Debug\productTable.exe.config
+D:\c#-app\productTable\productTable\bin\Debug\productTable.exe
+D:\c#-app\productTable\productTable\bin\Debug\productTable.pdb
+D:\c#-app\productTable\productTable\obj\Debug\productTable.csproj.AssemblyReference.cache
+D:\c#-app\productTable\productTable\obj\Debug\productTable.Form1.resources
+D:\c#-app\productTable\productTable\obj\Debug\productTable.Properties.Resources.resources
+D:\c#-app\productTable\productTable\obj\Debug\productTable.csproj.GenerateResource.cache
+D:\c#-app\productTable\productTable\obj\Debug\productTable.csproj.CoreCompileInputs.cache
+D:\c#-app\productTable\productTable\obj\Debug\productTable.exe
+D:\c#-app\productTable\productTable\obj\Debug\productTable.pdb
